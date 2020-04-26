@@ -26,3 +26,4 @@ puts attendee
    assign_rooms(attendees).each do|attendee|
      puts attendee
     end
+end

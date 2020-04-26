@@ -19,7 +19,8 @@ end
 end
 
 def printer(list)
-  batch_badge_creator(list).each
+  batch_badge_creator(list).each do|attendee|
 binding.pry
 
    end
+    end

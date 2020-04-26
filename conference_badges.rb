@@ -20,5 +20,5 @@ end
 def printer(list)
   batch_badge_creator(list)
 
-     end
+    
    end
